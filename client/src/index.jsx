@@ -1,4 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './components/App.jsx'
 
-ReactDOM.render(<div>Hello from react</div>, document.getElementById("navBar"))
+ReactDOM.render(<App />, document.getElementById("navBar"))
