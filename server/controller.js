@@ -9,6 +9,28 @@ const controller = {
         res.status(200).send(results);
       }
     })
+  },
+
+  getSearched: (req, res) => {
+    console.log(req.params.params)
+    db.getSearched(req.params.params, (err, results) => {
+      if(err) {
+        res.status(401).send("err retreiving searched products from db", err);
+      } else {
+        console.log(JSON.stringify(results))
+        res.status(201).send(JSON.stringify(results));
+      }
+    })
+  },
+
+  getId: (req, res) => {
+    db.getId(req.params.id, (err, results) => {
+      if(err) {
+        res.status(402).send("err retrieving id from db");
+      } else {
+        res.status(202).send(results);
+      }
+    })
   }
   // post: () => {
 
