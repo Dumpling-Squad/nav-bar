@@ -1,0 +1,352 @@
+[
+  {
+      "id": 1,
+      "name": "Unbranded Rubber Car",
+      "description": "intelligent fresh bacon",
+      "image": "https://navbar-mock-images-body.s3-us-west-1.amazonaws.com/HandCream_silo.png",
+      "type": "body"
+  },
+  {
+      "id": 2,
+      "name": "Fantastic Soft Salad",
+      "description": "incredible concrete fish",
+      "image": "https://navbar-mock-images-body.s3-us-west-1.amazonaws.com/body_hero_cream.jpg",
+      "type": "body"
+  },
+  {
+      "id": 3,
+      "name": "Tasty Wooden Keyboard",
+      "description": "awesome wooden bike",
+      "image": "https://navbar-mock-images-body.s3-us-west-1.amazonaws.com/body_hero_duo_main.jpg",
+      "type": "body"
+  },
+  {
+      "id": 4,
+      "name": "Refined Concrete Hat",
+      "description": "fantastic granite fish",
+      "image": "https://navbar-mock-images-body.s3-us-west-1.amazonaws.com/body_hero_oil_hover.jpg",
+      "type": "body"
+  },
+  {
+      "id": 5,
+      "name": "Generic Wooden Mouse",
+      "description": "sleek wooden fish",
+      "image": "https://navbar-mock-images-body.s3-us-west-1.amazonaws.com/HandCream_silo.png",
+      "type": "body"
+  },
+  {
+      "id": 6,
+      "name": "Licensed Frozen Chips",
+      "description": "refined frozen table",
+      "image": "https://navbar-mock-images-body.s3-us-west-1.amazonaws.com/body_hero_cream.jpg",
+      "type": "body"
+  },
+  {
+      "id": 7,
+      "name": "Practical Steel Mouse",
+      "description": "practical steel chair",
+      "image": "https://navbar-mock-images-body.s3-us-west-1.amazonaws.com/body_hero_duo_main.jpg",
+      "type": "body"
+  },
+  {
+      "id": 8,
+      "name": "Fantastic Frozen Chicken",
+      "description": "handcrafted fresh ball",
+      "image": "https://navbar-mock-images-body.s3-us-west-1.amazonaws.com/body_hero_oil_hover.jpg",
+      "type": "body"
+  },
+  {
+      "id": 9,
+      "name": "Tasty Fresh Table",
+      "description": "fantastic cotton mouse",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/HandCream_silo.png",
+      "type": "skinCare"
+  },
+  {
+      "id": 10,
+      "name": "Awesome Concrete Sausages",
+      "description": "small rubber keyboard",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/SuperBounce_ShopGrid_2_hover.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 11,
+      "name": "Small Rubber Car",
+      "description": "unbranded plastic fish",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/SuperGlow_ShopGrid_2_hover.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 12,
+      "name": "Awesome Plastic Salad",
+      "description": "intelligent rubber chips",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/balm_dotcom_berry_crunchy.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 13,
+      "name": "Generic Wooden Gloves",
+      "description": "incredible granite computer",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/bubblewrap.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 14,
+      "name": "Gorgeous Plastic Pizza",
+      "description": "fantastic granite mouse",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/futuredew-soloproduct_682_leftedge_copy.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 15,
+      "name": "Intelligent Wooden Cheese",
+      "description": "licensed metal pizza",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/invisible_shield_US.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 16,
+      "name": "Unbranded Metal Shoes",
+      "description": "small rubber chips",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/mega_greens.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 17,
+      "name": "Licensed Rubber Towels",
+      "description": "licensed frozen ball",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/milky_jelly_full_main.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 18,
+      "name": "Intelligent Rubber Ball",
+      "description": "sleek soft ball",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/moon_mask.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 19,
+      "name": "Practical Wooden Chicken",
+      "description": "incredible frozen car",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/pmr_main.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 20,
+      "name": "Fantastic Steel Keyboard",
+      "description": "intelligent fresh gloves",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/priming_moisturizer.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 21,
+      "name": "Refined Fresh Gloves",
+      "description": "awesome concrete car",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/solution.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 22,
+      "name": "Sleek Concrete Shirt",
+      "description": "handmade granite hat",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/soothing_face_mist.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 23,
+      "name": "Handmade Steel Pizza",
+      "description": "tasty fresh car",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/treat-perfect-duo_1-main.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 24,
+      "name": "Handmade Fresh Fish",
+      "description": "refined frozen shirt",
+      "image": "https://navbar-mock-images-skincare.s3-us-west-1.amazonaws.com/zitstick.jpg",
+      "type": "skinCare"
+  },
+  {
+      "id": 25,
+      "name": "Refined Granite Tuna",
+      "description": "gorgeous concrete chicken",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/BrowFlick_BoyBrow_Duo_main.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 26,
+      "name": "Sleek Soft Chips",
+      "description": "refined concrete cheese",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/Gen-G_Boy_Brow_Duo-alt.png",
+      "type": "makeUp"
+  },
+  {
+      "id": 27,
+      "name": "Handcrafted Cotton Fish",
+      "description": "small granite salad",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/Skywash_ShopGrid_1.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 28,
+      "name": "Practical Fresh Fish",
+      "description": "rustic soft soap",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/blush-highlight-duo_1-main.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 29,
+      "name": "Tasty Concrete Mouse",
+      "description": "awesome concrete tuna",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/browflick_main.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 30,
+      "name": "Refined Frozen Shoes",
+      "description": "refined plastic cheese",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/cloud_paint_crunchy_hand_main.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 31,
+      "name": "Small Concrete Mouse",
+      "description": "gorgeous granite chips",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/colorslide_early_girl.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 32,
+      "name": "Fantastic Fresh Hat",
+      "description": "practical concrete chips",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/colorslide_lashslick_duo_main.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 33,
+      "name": "Handcrafted Cotton Bike",
+      "description": "licensed granite towels",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/gen_g_zip.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 34,
+      "name": "Licensed Wooden Chicken",
+      "description": "sleek rubber salad",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/lashslick_main.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 35,
+      "name": "Handmade Cotton Computer",
+      "description": "practical rubber table",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/lashslick_wand_hand.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 36,
+      "name": "Licensed Metal Mouse",
+      "description": "licensed metal chicken",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/lidstar_cub_main.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 37,
+      "name": "Licensed Rubber Table",
+      "description": "incredible concrete chips",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/liner-shadow-set_1-main.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 38,
+      "name": "Fantastic Soft Bike",
+      "description": "small plastic chair",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/nightshine_platinum_rose_main.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 39,
+      "name": "Refined Metal Pants",
+      "description": "generic soft soap",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/protip-black.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 40,
+      "name": "Practical Concrete Cheese",
+      "description": "intelligent soft tuna",
+      "image": "https://navbar-mock-images-makeup.s3-us-west-1.amazonaws.com/vinylic_lip_disco_open.jpg",
+      "type": "makeUp"
+  },
+  {
+      "id": 41,
+      "name": "Ergonomic Metal Mouse",
+      "description": "sleek fresh sausages",
+      "image": "https://navbar-mock-images-fragrance.s3-us-west-1.amazonaws.com/GlossierYou.jpg",
+      "type": "fragrance"
+  },
+  {
+      "id": 42,
+      "name": "Fantastic Cotton Car",
+      "description": "unbranded soft shoes",
+      "image": "https://navbar-mock-images-shopoursets.s3-us-west-1.amazonaws.com/MilkyJelly_Futuredew_Set_ShopGrid_1-main.jpg",
+      "type": "shopOurSets"
+  },
+  {
+      "id": 43,
+      "name": "Practical Cotton Car",
+      "description": "tasty wooden tuna",
+      "image": "https://navbar-mock-images-shopoursets.s3-us-west-1.amazonaws.com/Super_Duo_main.jpg",
+      "type": "shopOurSets"
+  },
+  {
+      "id": 44,
+      "name": "Incredible Steel Pants",
+      "description": "small steel shirt",
+      "image": "https://navbar-mock-images-shopoursets.s3-us-west-1.amazonaws.com/bb_haloscope_cp_balm_main.jpg",
+      "type": "shopOurSets"
+  },
+  {
+      "id": 45,
+      "name": "Practical Soft Towels",
+      "description": "fantastic cotton gloves",
+      "image": "https://navbar-mock-images-shopoursets.s3-us-west-1.amazonaws.com/body_hero_duo_main.jpg",
+      "type": "shopOurSets"
+  },
+  {
+      "id": 46,
+      "name": "Licensed Granite Towels",
+      "description": "sleek granite keyboard",
+      "image": "https://navbar-mock-images-shopoursets.s3-us-west-1.amazonaws.com/core-lip-collection_1-main.jpg",
+      "type": "shopOurSets"
+  },
+  {
+      "id": 47,
+      "name": "Unbranded Rubber Chicken",
+      "description": "handmade metal computer",
+      "image": "https://navbar-mock-images-shopoursets.s3-us-west-1.amazonaws.com/makeup_set_update.jpg",
+      "type": "shopOurSets"
+  },
+  {
+      "id": 48,
+      "name": "Practical Steel Shirt",
+      "description": "fantastic rubber fish",
+      "image": "https://navbar-mock-images-shopoursets.s3-us-west-1.amazonaws.com/mask_duo.jpg",
+      "type": "shopOurSets"
+  },
+  {
+      "id": 49,
+      "name": "Refined Steel Sausages",
+      "description": "unbranded plastic keyboard",
+      "image": "https://navbar-mock-images-shopoursets.s3-us-west-1.amazonaws.com/skincare_set_edit.jpg",
+      "type": "shopOurSets"
+  },
+  {
+      "id": 50,
+      "name": "Incredible Concrete Soap",
+      "description": "awesome cotton sausages",
+      "image": "https://navbar-mock-images-shopoursets.s3-us-west-1.amazonaws.com/treat-perfect-duo_1-main (1).jpg",
+      "type": "shopOurSets"
+  }
+]
