@@ -1,6 +1,7 @@
 const db = require('./index.js');
 const faker = require('faker');
 
+
 const aws = require('aws-sdk');
 const config = require('../config/config.json');
 
