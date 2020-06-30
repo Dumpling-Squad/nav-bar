@@ -12,12 +12,10 @@ const controller = {
   },
 
   getSearched: (req, res) => {
-    console.log(req.params.params)
     db.getSearched(req.params.params, (err, results) => {
       if(err) {
         res.status(401).send("err retreiving searched products from db", err);
       } else {
-        console.log(JSON.stringify(results))
         res.status(201).send(JSON.stringify(results));
       }
     })
@@ -32,9 +30,6 @@ const controller = {
       }
     })
   }
-  // post: () => {
-
-  // }
 }
 
 module.exports = controller;
