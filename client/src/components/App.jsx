@@ -8,7 +8,7 @@ import TableOfContents from './TableOfContents.jsx';
 // import { render } from "react-dom";
 // import SlidingPane from "react-sliding-pane";
 // import "react-sliding-pane/dist/react-sliding-pane.css";
-import {CSSTransitionGroup}  from 'react-transition-group'
+// import {CSSTransitionGroup}  from 'react-transition-group'
 
 class App extends React.Component {
   constructor(props) {
@@ -102,7 +102,6 @@ toggleTableOfContents() {
 
   render () {
     return (
-      <div>
         <div class="app">
         <header class="navBar">
         <div class="initiativeBar">Learn more about our&nbsp;<span>Grant Initiative</span>&nbsp;for Black-Owned Businesses.</div>
@@ -131,12 +130,7 @@ toggleTableOfContents() {
           </div>
           <LowerNav appState={this.state} products={this.state.products} onAllProducts={this.onAllProducts} onMouseOver={this.onMouseOver} onMouseLeave={this.onMouseLeave}/>
         </header>
-          <>
-            <img  src="./Screen Shot 2020-06-25 at 7.56.00 PM (2).png" />
-            <img  src="./Screen Shot 2020-06-25 at 7.56.00 PM (2).png" />
-          </>
         </div>
-      </div>
     );
   }
 }
