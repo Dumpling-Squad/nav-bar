@@ -102,37 +102,40 @@ toggleTableOfContents() {
 
   render () {
     return (
-      <div class="app">
-      <header class="navBar">
-        <div class="upper-nav">
-          <div class="upper-left-nav">
-              <img src={"https://navbar-svg-icons.s3-us-west-1.amazonaws.com/menu.svg"} id="icon" onClick={this.toggleTableOfContents}/>
+      <div>
+        <div class="app">
+        <header class="navBar">
+        <div class="initiativeBar">Learn more about our&nbsp;<span>Grant Initiative</span>&nbsp;for Black-Owned Businesses.</div>
+          <div class="upper-nav">
+            <div class="upper-left-nav">
+                <img src={"https://navbar-svg-icons.s3-us-west-1.amazonaws.com/menu.svg"} id="icon" onClick={this.toggleTableOfContents}/>
 
-                {this.state.tableOfContents ?
-                  <TableOfContents toggleTableOfContents={this.toggleTableOfContents}/>
-                : null}
+                  {this.state.tableOfContents ?
+                    <TableOfContents toggleTableOfContents={this.toggleTableOfContents}/>
+                  : null}
 
-              <img src={"https://navbar-svg-icons.s3-us-west-1.amazonaws.com/search.svg"} class="search" id="icon" onClick={this.toggleSearchBar} />
-              {this.state.search ? <SearchBar untoggleSearchBar={this.untoggleSearchBar}/> : null}
+                <img src={"https://navbar-svg-icons.s3-us-west-1.amazonaws.com/search.svg"} class="search" id="icon" onClick={this.toggleSearchBar} />
+                {this.state.search ? <SearchBar untoggleSearchBar={this.untoggleSearchBar}/> : null}
+            </div>
+              <div class="title">
+                Glossier.
+              </div>
+              <div class="upper-right-nav">
+                <li class="profile" id="icon">
+                  <img src={"https://navbar-svg-icons.s3-us-west-1.amazonaws.com/profile.svg"}/>
+                </li>
+                <li class="nav-shopping-cart" id="icon">
+                  <img src={"https://navbar-svg-icons.s3-us-west-1.amazonaws.com/bag.svg"}/>
+                </li>
+              </div>
           </div>
-            <div class="title">
-              Glossier.
-            </div>
-            <div class="upper-right-nav">
-              <li class="profile" id="icon">
-                <img src={"https://navbar-svg-icons.s3-us-west-1.amazonaws.com/profile.svg"}/>
-              </li>
-              <li class="nav-shopping-cart" id="icon">
-                <img src={"https://navbar-svg-icons.s3-us-west-1.amazonaws.com/bag.svg"}/>
-              </li>
-            </div>
+          <LowerNav appState={this.state} products={this.state.products} onAllProducts={this.onAllProducts} onMouseOver={this.onMouseOver} onMouseLeave={this.onMouseLeave}/>
+        </header>
+          <>
+            <img  src="./Screen Shot 2020-06-25 at 7.56.00 PM (2).png" />
+            <img  src="./Screen Shot 2020-06-25 at 7.56.00 PM (2).png" />
+          </>
         </div>
-        <LowerNav appState={this.state} products={this.state.products} onAllProducts={this.onAllProducts} onMouseOver={this.onMouseOver} onMouseLeave={this.onMouseLeave}/>
-      </header>
-        <>
-          <img  src="./Screen Shot 2020-06-25 at 7.56.00 PM (2).png" />
-          <img  src="./Screen Shot 2020-06-25 at 7.56.00 PM (2).png" />
-        </>
       </div>
     );
   }
