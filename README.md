@@ -14,6 +14,7 @@ npm install
 
 ### Seeding MySQL database
 (Must have a working MySQL database on your machine)
+Update the credentials to match your MySQL credentials in ./db/index.js
 npm seed
 
 ### Starting Server
