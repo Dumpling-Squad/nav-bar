@@ -116,7 +116,7 @@ toggleTableOfContents() {
                 <img src={"https://navbar-svg-icons.s3-us-west-1.amazonaws.com/search.svg"} className="search" id="icon" onClick={this.toggleSearchBar} />
                 {this.state.search ? <SearchBar untoggleSearchBar={this.untoggleSearchBar}/> : null}
             </div>
-              <div className="title">
+              <div className="navBarTitle">
                 Glossier.
               </div>
               <div className="upper-right-nav">

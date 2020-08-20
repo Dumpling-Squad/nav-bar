@@ -14,9 +14,12 @@ npm install
 
 ### Seeding MySQL database
 (Must have a working MySQL database on your machine)
-Update the credentials to match your MySQL credentials in ./db/index.js
-npm seed
+1. Update the credentials to match your MySQL credentials in ./db/index.js
+2. Run the schema file from the root directory of this repo
+    mysql -u [user] -p <./db/schema.sql
+3. Seed the database with the products
+    npm seed
 
 ### Starting Server
-npm start
 npm run build
+npm start
